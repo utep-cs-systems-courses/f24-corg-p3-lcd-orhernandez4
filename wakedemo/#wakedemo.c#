@@ -228,7 +228,7 @@ void update_shape() {
 
   screen_update_ball();
 
-  screen_update_hourglass();
+  //  screen_update_hourglass();
 
   // Erase and redraw panels
 
